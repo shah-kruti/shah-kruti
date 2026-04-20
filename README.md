@@ -1,4 +1,26 @@
-## Hi there 👋
+## Hi, I'm Kruti
+
+A technology enthusiast and a product leader with 6+ years of expereince in FinTech and EdTech.
+
+Welcome to my GitHub page! I built this to explore, learn and use AI. Currently, I'm actively seeking full-time roles in Product Management across USA. Feel free to explore and get in touch!
+
+If something here catches your eye, I'd love to connect.
+
+
+## About me
+
+I'm a PM with 6+ years of experience across Fintech, Financial Services, Banking, and EdTech — building platform and consumer products at the intersection of engineering, business, and design.
+
+I came to product management without a plan. Everything since has been deliberate.
+
+
+## Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kruti_Shah-blue?style=flat&logo=linkedin)](https://linkedin.com/in/kruti-shah)
+[![Portfolio](https://img.shields.io/badge/Portfolio-shah--kruti.github.io-purple?style=flat)](https://shah-kruti.github.io)
+
+
+
 
 <!--
 **shah-kruti/shah-kruti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
