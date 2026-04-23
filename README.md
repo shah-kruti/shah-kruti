@@ -1,6 +1,6 @@
 ## Hi, I'm Kruti
 
-A technology enthusiast and a product leader with 6+ years of expereince in FinTech and EdTech.
+A technology enthusiast and a product leader with 6+ years of expereince in FinTech, Banking, and EdTech.
 
 Welcome to my GitHub page! I built this to explore, learn and use AI. Currently, I'm actively seeking full-time roles in Product Management across USA. Feel free to explore and get in touch!
 
@@ -9,9 +9,64 @@ If something here catches your eye, I'd love to connect.
 
 ## About me
 
-I'm a PM with 6+ years of experience across Fintech, Financial Services, Banking, and EdTech — building platform and consumer products at the intersection of engineering, business, and design.
+I'm a PM with 6+ years of experience across FinTech, Banking, and EdTech — building platform and consumer products at the intersection of engineering, business, and design.
 
-I came to product management without a plan. Everything since has been deliberate.
+
+# PRD Author: Kruti Shah
+
+## 🧾 Overview
+Experienced Product Manager with 6+ years of experience across product strategy, product operations, and end-to-end execution.
+
+---
+
+## 🎯 Product Objective
+- Initiate meaningful conversations  
+- Showcase my skills, thinking, and approach to product management  
+- Connect with recruiters, hiring managers, and teams building impactful products  
+
+---
+
+## 👥 Target Audience
+- Recruiters evaluating product talent  
+- Hiring managers looking for strong execution-focused PMs  
+- Product leaders and peers open to connecting and exchanging ideas  
+
+---
+
+## 🧩 Problem Statement
+Teams often struggle with ambiguity, misalignment, and inefficient execution, leading to delays and suboptimal product outcomes.
+
+---
+
+## 💡 Proposed Solution
+A Product Manager who brings clarity to complexity, aligns cross-functional teams, and drives structured, high-quality execution.
+
+---
+
+## ⚙️ Core Capabilities
+- Product strategy & roadmap planning  
+- MVP definition & prioritization  
+- Requirements gathering & PRD writing  
+- Product operations & process design  
+- Cross-functional stakeholder alignment  
+- Data-informed decision making  
+
+---
+
+## 🤖 AI Skills
+- Leveraging AI tools for product discovery and research  
+- Using AI for documentation, PRDs, and workflow acceleration  
+- Applying AI to analyze data, generate insights, and support decision-making  
+- Exploring AI-driven process automation and efficiency improvements  
+
+---
+
+## 📊 Success Metrics
+- Increased clarity and reduced ambiguity across teams  
+- Strong cross-functional alignment  
+- High-quality, on-time product delivery  
+- Measurable impact on user experience and business outcomes  
+
 
 
 ## Let's connect
