@@ -1,4 +1,4 @@
-## Hi, I'm Kruti
+# Hi, I'm Kruti
 
 A technology enthusiast and a product leader with 6+ years of expereince in FinTech, Banking, and EdTech.
 
@@ -12,12 +12,12 @@ If something here catches your eye, I'd love to connect.
 I'm a PM with 6+ years of experience across FinTech, Banking, and EdTech — building platform and consumer products at the intersection of engineering, business, and design.
 
 
-# PRD Author: Kruti Shah
+# Product: KRUTI SHAH
+
+## PRD Author: Kruti Shah
 
 ## 🧾 Overview
 Experienced Product Manager with 6+ years of experience across product strategy, product operations, and end-to-end execution.
-
----
 
 ## 🎯 Product Objective
 - Initiate meaningful conversations  
@@ -44,11 +44,10 @@ A Product Manager who brings clarity to complexity, aligns cross-functional team
 ---
 
 ## ⚙️ Core Capabilities
-- Product strategy & roadmap planning  
-- MVP definition & prioritization  
-- Requirements gathering & PRD writing  
+- Product strategy & roadmap planning    
 - Product operations & process design  
-- Cross-functional stakeholder alignment  
+- Cross-functional team leadership
+- Process improvements, automation, operational excellence ad automation
 - Data-informed decision making  
 
 ---
