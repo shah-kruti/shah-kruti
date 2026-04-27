@@ -42,7 +42,7 @@ I turn complexity into clarity and clarity into conviction.
 💡Knowing my work has solved a problem for someone, made someone's experience better
 
 
-I'm actively exploring new opportunities and open to PO/PM roles across the United States. 
+### I'm actively exploring new opportunities and open to PO/PM roles across the United States. 
 
 ## Let's connect
 📬📧 krutishah2507@gmail.com
