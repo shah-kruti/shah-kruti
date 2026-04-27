@@ -30,12 +30,16 @@ I turn complexity into clarity and clarity into conviction.
 
 🧩Tools: Azure DevOps, Jira, Confluence, Miro, Figma, FigJam, Visio, Aha, POSTMAN, Wrike, Trello, Visual Studio, SonarQube
 
-##🚀 WHAT KEEPS ME GOING
+###🚀 WHAT KEEPS ME GOING
 
 💡 When a skeptical stakeholder becomes your biggest advocate
+
 💡 The moment a room full of misaligned stakeholders suddenly sees the same thing
+
 💡Stepping into the user's shoes and understanding what they truly need — not just what they say they need
+
 💡Knowing my work has solved a problem for someone, made someone's experience better
+
 
 I'm actively exploring new opportunities and open to PO/PM roles across the United States. 
 
