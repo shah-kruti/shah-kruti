@@ -31,16 +31,10 @@ I turn complexity into clarity and clarity into conviction.
 
 I'm actively exploring new opportunities and open to PO/PM roles across the United States. 
 
-I'm excited about what's next! Let's connect!!
-📬📧 krutishah2507@gmail.com
-💼🌐 https://shah-kruti.github.io/
-🐙💻 https://github.com/shah-kruti
-
 ## Let's connect
-
+📬📧 krutishah2507@gmail.com
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kruti_Shah-blue?style=flat&logo=linkedin)](https://linkedin.com/in/kruti-shah)
 [![Portfolio](https://img.shields.io/badge/Portfolio-shah--kruti.github.io-purple?style=flat)](https://shah-kruti.github.io)
-
 
 
 
