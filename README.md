@@ -30,6 +30,7 @@ I turn complexity into clarity and clarity into conviction.
 
 🧩Tools: Azure DevOps, Jira, Confluence, Miro, Figma, FigJam, Visio, Aha, POSTMAN, Wrike, Trello, Visual Studio, SonarQube
 
+ 
 ###🚀 WHAT KEEPS ME GOING
 
 💡 When a skeptical stakeholder becomes your biggest advocate
