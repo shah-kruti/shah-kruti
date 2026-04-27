@@ -15,18 +15,29 @@ I own the full product lifecycle - from discovery to delivery.
 I turn complexity into clarity and clarity into conviction.
 
 🛠️ SKILLS AND COMPETENCIES
+
 🧩Product Discovery and Design: User journey mapping, wireframing and prototyping, UX optimization, PRD, BRD, user story writing, acceptance criteria definition, MVP scoping
+
 🧩Process and Operational Excellence: Process design and optimization, workflow automation, operational alignment, cross-functional coordination, organizational efficiency improvements, gap analysis and change management
+
 🧩Data and Technical depth: SQL, Azure Databricks, ETL processes, CI/CD pipeline requirements, data quality and governance, A/B testing and experimentation, feature adoption tracking, engagement and retention, product analytics - KPIs and OKRs, Python, R, Tableau, Power BI
+
 🧩AI: Agentic AI tools and prompt engineering, ChatGPT, Claude, Claude Code, Cursor
+
 🧩Business Strategy and Stakeholder Management: Requirements gathering, executive stakeholder alignment, business case development, cross-functional team leadership, go-to-market strategy, user research and persona development, competitive and market analysis
+
 🧩Delivery and Execution: SDLC, Agile (Scrum, Kanban, SAFe), roadmap ownership, backlog grooming and prioritization (MoSCoW, RICE, value vs. effort), sprint planning and velocity tracking, story point estimation, release planning, QA, UAT, and CUG testing, platform migrations
+
 🧩Tools: Azure DevOps, Jira, Confluence, Miro, Figma, FigJam, Visio, Aha, POSTMAN, Wrike, Trello, Visual Studio, SonarQube
 
 🚀 WHAT KEEPS ME GOING
+
 💡 When a skeptical stakeholder becomes your biggest advocate
+
 💡 The moment a room full of misaligned stakeholders suddenly sees the same thing
+
 💡Stepping into the user's shoes and understanding what they truly need — not just what they say they need
+
 💡Knowing my work has solved a problem for someone, made someone's experience better
 
 I'm actively exploring new opportunities and open to PO/PM roles across the United States. 
