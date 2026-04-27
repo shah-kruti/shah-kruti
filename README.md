@@ -14,7 +14,7 @@ I'm a CSPO certified Product Leader with 6+ years of experience building B2B and
 I own the full product lifecycle - from discovery to delivery.
 I turn complexity into clarity and clarity into conviction.
 
-🛠️ SKILLS AND COMPETENCIES
+### 🛠️ SKILLS AND COMPETENCIES
 
 🧩Product Discovery and Design: User journey mapping, wireframing and prototyping, UX optimization, PRD, BRD, user story writing, acceptance criteria definition, MVP scoping
 
